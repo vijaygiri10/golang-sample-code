@@ -1,0 +1,13 @@
+{
+  "service": {
+    "host": "",
+    "port": "8080",
+    "path": "/api/accounts",
+    "method": "GET"
+  },
+  "spanner": {
+    "project": "inbox-aware",
+    "instance": "inbox-aware",
+    "database": "inbox-aware-staging"
+  }
+}

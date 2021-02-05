@@ -1,0 +1,13 @@
+{
+  "service": {
+    "host": "localhost",
+    "port": "8085",
+    "path": "/api/accounts",
+    "method": "GET"
+  },
+  "spanner": {
+    "project": "emulator",
+    "instance": "inbox-aware",
+    "database": "development"
+  }
+}
